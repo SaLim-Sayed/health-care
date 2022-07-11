@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/health-care/static/css/main.c749d06b.css",
+    "main.js": "/health-care/static/js/main.074742a2.js",
+    "static/media/20-a6cd4cSpecialties-1-10-06.webp": "/health-care/static/media/20-a6cd4cSpecialties-1-10-06.98920b772f0d8dbb6f75.webp",
+    "index.html": "/health-care/index.html",
+    "main.c749d06b.css.map": "/health-care/static/css/main.c749d06b.css.map",
+    "main.074742a2.js.map": "/health-care/static/js/main.074742a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c749d06b.css",
+    "static/js/main.074742a2.js"
+  ]
+}
